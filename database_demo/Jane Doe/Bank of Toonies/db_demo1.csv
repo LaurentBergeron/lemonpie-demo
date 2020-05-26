@@ -1,0 +1,97 @@
+﻿Date,Amount,Note,Payee,Ownership,Account,Heading,Category
+2019-01-01,1073.1,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Income,Wages
+2019-02-01,347.07,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Income,Wages
+2019-03-01,1212.09,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Income,Wages
+2019-04-01,4027.65,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Income,Wages
+2019-05-01,1202.7,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Income,Wages
+2019-06-01,2578.68,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Income,Wages
+2019-07-01,3911.22,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Income,Wages
+2019-08-01,36.84,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Income,Wages
+2019-09-01,1189.95,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Income,Wages
+2019-10-01,6210,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Income,Wages
+2019-11-01,4462.92,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Income,Wages
+2019-12-01,4211.76,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Income,Wages
+2019-01-09,-12.63,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Shopping,Clothing
+2019-11-24,-21.64,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Shopping,"TV, books, music"
+2019-02-03,-337.79,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Shopping,"TV, books, music"
+2019-02-06,-667.51,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Shopping,Art supplies
+2019-04-03,-676.92,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Shopping,Gifts
+2019-11-21,-190.83,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Shopping,Gifts
+2019-10-15,-205.03,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Shopping,Gifts
+2019-11-16,-218.96,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Shopping,Gifts
+2019-01-14,-472.37,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Travel,Flights
+2019-02-28,-327.21,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Travel,Lodging
+2019-08-05,-8.91,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Travel,Lodging
+2019-10-02,-159,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Travel,Lodging
+2019-10-16,-68.82,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Travel,Lodging
+2019-11-01,-836.64,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Travel,"Public transport, taxis"
+2019-01-01,-246.24,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Travel,"Public transport, taxis"
+2019-10-20,-510.17,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Travel,Others
+2019-08-25,-564.32,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Vehicle,Fuel
+2019-12-12,-349.82,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Vehicle,Fuel
+2019-08-14,-158.35,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Vehicle,Fuel
+2019-06-27,-44.46,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Vehicle,Fuel
+2019-06-04,-193.73,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Vehicle,Fuel
+2019-02-01,-19.53,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Vehicle,Fuel
+2019-05-19,-200.74,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Vehicle,Fuel
+2019-06-05,-287.99,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Vehicle,Fuel
+2019-09-25,-107.1,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Vehicle,Insurance
+2019-07-02,-291.38,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Vehicle,Maintenance
+2019-01-23,-487.11,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Vehicle,Maintenance
+2019-01-16,-557.14,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Groceries
+2019-10-10,-51.34,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Groceries
+2019-02-02,-446.57,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Groceries
+2019-12-17,-25.37,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Groceries
+2019-06-17,-83.99,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Groceries
+2019-08-02,-665.7,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Groceries
+2019-01-22,-94.1,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Groceries
+2019-11-26,-165.36,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Groceries
+2019-11-07,-332.31,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Groceries
+2019-05-28,-367.87,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Groceries
+2019-02-07,-18.61,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Groceries
+2019-06-16,-72.79,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Groceries
+2019-03-27,-215.15,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Groceries
+2019-02-14,-584.77,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Groceries
+2019-09-25,-52.71,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Groceries
+2019-03-09,-101.36,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Restaurant
+2019-06-06,-317.85,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Restaurant
+2019-04-02,-162.05,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Restaurant
+2019-06-16,-196.7,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Restaurant
+2019-08-01,-4.92,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Restaurant
+2019-06-22,-73.03,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Restaurant
+2019-01-01,-457.99,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Restaurant
+2019-12-23,-407.68,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Alcool
+2019-09-28,-210.86,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Alcool
+2019-09-28,-558.81,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Food and dining,Others
+2019-09-22,-323.29,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Personal,Phone
+2019-07-18,-37.38,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Personal,Phone
+2019-10-23,-633.34,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Personal,Phone
+2019-07-28,-73,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Personal,Phone
+2019-06-09,-399.36,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Personal,Phone
+2019-03-22,-140.14,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Personal,Phone
+2019-09-27,-6.98,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Personal,Health
+2019-02-25,-648.07,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Housing,Rent
+2019-01-01,-6.75,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Housing,Rent
+2019-01-23,-165.8,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Housing,Rent
+2019-02-05,-80.9,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Housing,Rent
+2019-08-04,-743.16,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Housing,Rent
+2019-12-23,-99.33,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Housing,Rent
+2019-08-10,-30.49,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Housing,Rent
+2019-11-09,-6.79,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Housing,Rent
+2019-01-10,-634.63,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Housing,Rent
+2019-05-24,-156.95,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Housing,Rent
+2019-10-26,-423.59,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Housing,Insurance
+2019-03-08,-660.5,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Housing,Internet
+2019-08-01,-7.43,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Housing,Internet
+2019-02-17,-653.38,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Housing,Internet
+2019-07-06,-159.88,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Housing,Internet
+2019-04-20,-527.4,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Housing,Internet
+2019-03-18,-259.89,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Entertainment,Active sports
+2019-12-03,-185.21,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Entertainment,Active sports
+2019-02-13,-20.41,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Entertainment,Active sports
+2019-09-15,-563.35,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Entertainment,Active sports
+2019-01-11,-213.49,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Entertainment,Active sports
+2019-03-16,-25.63,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Entertainment,Active sports
+2019-07-13,-212.67,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Entertainment,Outings
+2019-10-23,-461.78,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Entertainment,Outings
+2019-10-18,-339.56,lorem ipsum,lorem ipsum,Jane Doe,Bank of Toonies,Entertainment,Others

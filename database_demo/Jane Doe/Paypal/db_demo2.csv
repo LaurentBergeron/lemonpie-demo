@@ -1,0 +1,12 @@
+﻿Date,Amount,Note,Payee,Ownership,Account,Heading,Category
+2019-02-08,38.26,lorem ipsum,lorem ipsum,Jane Doe,Paypal,Income,Refunds
+2019-02-19,-156.68,lorem ipsum,lorem ipsum,Jane Doe,Paypal,Shopping,"Electronics, accessories"
+2019-03-09,-52.69,lorem ipsum,lorem ipsum,Jane Doe,Paypal,Personal,Memberships
+2019-03-15,-31.92,lorem ipsum,lorem ipsum,Jane Doe,Paypal,Unclassified,Others
+2019-03-15,-5.59,lorem ipsum,lorem ipsum,Jane Doe,Paypal,Shopping,Gifts
+2019-04-23,-18,lorem ipsum,lorem ipsum,Jane Doe,Paypal,Transfer,Transfer
+2019-05-20,-294.45,lorem ipsum,lorem ipsum,Jane Doe,Paypal,Shopping,Sporting goods
+2019-07-03,-87.26,lorem ipsum,lorem ipsum,Jane Doe,Paypal,Shopping,Sporting goods
+2019-09-05,-254.96,lorem ipsum,lorem ipsum,Jane Doe,Paypal,Personal,Charity
+2019-09-08,-17.89,lorem ipsum,lorem ipsum,Jane Doe,Paypal,Shopping,"Software, apps, games"
+2019-12-16,-34.86,lorem ipsum,lorem ipsum,Jane Doe,Paypal,Shopping,Sporting goods

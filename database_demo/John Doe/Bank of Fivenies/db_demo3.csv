@@ -1,0 +1,97 @@
+﻿Date,Amount,Note,Payee,Ownership,Account,Heading,Category
+2019-01-01,1073.1,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Income,Wages
+2019-02-01,347.07,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Income,Wages
+2019-03-01,1212.09,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Income,Wages
+2019-04-01,4027.65,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Income,Wages
+2019-05-01,1202.7,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Income,Wages
+2019-06-01,2578.68,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Income,Wages
+2019-07-01,3911.22,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Income,Wages
+2019-08-01,36.84,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Income,Wages
+2019-09-01,1189.95,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Income,Wages
+2019-10-01,6210,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Income,Wages
+2019-11-01,4462.92,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Income,Wages
+2019-12-01,4211.76,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Income,Wages
+2019-01-16,-32.1,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Housing,Rent
+2019-10-08,-199.9,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Housing,Rent
+2019-04-14,-50.9,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Housing,Rent
+2019-12-22,-59.97,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Housing,Rent
+2019-08-04,-14.54,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Housing,Rent
+2019-11-21,-83.26,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Housing,Maintenance
+2019-10-15,-254.97,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Housing,Maintenance
+2019-04-28,-94.43,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Housing,Maintenance
+2019-08-24,-60.48,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Housing,Maintenance
+2019-09-16,-309.23,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Housing,Maintenance
+2019-08-02,-85.14,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Personal,Memberships
+2019-04-08,-7.99,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Personal,Memberships
+2019-10-03,-42.7,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Personal,Charity
+2019-03-05,-85.21,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Personal,Charity
+2019-11-01,-362.84,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Personal,Charity
+2019-09-28,-215.14,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Personal,Charity
+2019-02-08,-76.62,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Personal,Charity
+2019-03-15,-142.74,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Groceries
+2019-09-09,-298.67,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Groceries
+2019-08-08,-195.06,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Groceries
+2019-01-15,-17.24,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Groceries
+2019-11-14,-36.33,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Groceries
+2019-05-25,-159.05,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Groceries
+2019-02-23,-0.77,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Groceries
+2019-11-20,-313.83,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Groceries
+2019-12-28,-0.02,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Groceries
+2019-10-06,-142.05,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Groceries
+2019-03-17,-29.42,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Groceries
+2019-12-17,-43.98,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Restaurant
+2019-12-09,-205.7,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Restaurant
+2019-05-15,-301.71,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Restaurant
+2019-12-08,-125.14,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Restaurant
+2019-04-16,-32.89,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Restaurant
+2019-06-09,-375.03,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Restaurant
+2019-03-28,-374.63,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Restaurant
+2019-01-22,-74.17,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Restaurant
+2019-07-16,-64.55,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Restaurant
+2019-10-08,-190.76,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Food and dining,Alcool
+2019-03-01,-92.2,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Education,Tuition
+2019-02-19,-312.04,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Education,Tuition
+2019-04-17,-34.55,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Education,Tuition
+2019-03-08,-150.03,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Education,Tuition
+2019-02-13,-141.91,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Education,Tuition
+2019-04-04,-222.64,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Education,Tuition
+2019-08-23,-371.26,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Education,Supplies
+2019-01-28,-8.56,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Education,Supplies
+2019-12-03,-3.44,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Education,Supplies
+2019-12-08,-335.61,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Education,Loans
+2019-08-21,-51.91,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Education,Loans
+2019-10-20,-64,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Education,Loans
+2019-03-06,-155.94,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Education,Loans
+2019-12-22,-475.68,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Education,Loans
+2019-03-05,-110.1,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Travel,"Public transport, taxis"
+2019-09-22,-295.98,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Travel,"Public transport, taxis"
+2019-08-08,-439.52,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Travel,"Public transport, taxis"
+2019-08-25,-213.22,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Travel,"Public transport, taxis"
+2019-03-17,-388.11,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Travel,"Public transport, taxis"
+2019-06-19,-0.25,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Travel,"Public transport, taxis"
+2019-04-12,-33.7,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Travel,"Public transport, taxis"
+2019-08-15,-38.11,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Travel,"Public transport, taxis"
+2019-08-05,-22.57,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Travel,"Public transport, taxis"
+2019-05-01,-274.48,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Travel,"Public transport, taxis"
+2019-06-01,-390.23,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Travel,"Public transport, taxis"
+2019-05-20,-58.14,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Travel,"Public transport, taxis"
+2019-01-14,-103.07,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Travel,"Public transport, taxis"
+2019-07-11,-190.24,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Travel,"Public transport, taxis"
+2019-06-10,-52.97,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Shopping,Pets
+2019-06-20,-97.66,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Shopping,Pets
+2019-03-01,-9.25,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Shopping,Pets
+2019-05-17,-94.65,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Shopping,Pets
+2019-07-11,-89.78,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Shopping,Pets
+2019-11-07,-91.88,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Shopping,Pets
+2019-11-25,-388.23,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Shopping,Pets
+2019-02-13,-178.57,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Shopping,Pets
+2019-11-03,-5.5,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Shopping,Pets
+2019-04-24,-27.7,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Shopping,Pets
+2019-09-05,-21,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Shopping,Pets
+2019-07-27,-86.94,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Shopping,Pets
+2019-12-03,-303.39,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Shopping,"Software, apps, games"
+2019-07-14,-334.38,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Shopping,"Software, apps, games"
+2019-04-15,-95.78,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Shopping,"Software, apps, games"
+2019-01-08,-77.65,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Shopping,"Software, apps, games"
+2019-09-13,-32.64,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Shopping,"Garden, tools"
+2019-05-27,-220.64,lorem ipsum,lorem ipsum,John Doe,Bank of Fivenies,Shopping,"Garden, tools"

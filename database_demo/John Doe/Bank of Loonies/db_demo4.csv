@@ -1,0 +1,11 @@
+﻿Date,Amount,Note,Payee,Ownership,Account,Heading,Category
+2019-06-21,1.04,lorem ipsum,lorem ipsum,John Doe,Bank of Loonies,Income,"Interests, dividends"
+2019-09-28,72.76,lorem ipsum,lorem ipsum,John Doe,Bank of Loonies,Income,"Interests, dividends"
+2019-01-21,58.37,lorem ipsum,lorem ipsum,John Doe,Bank of Loonies,Income,"Interests, dividends"
+2019-07-17,5.01,lorem ipsum,lorem ipsum,John Doe,Bank of Loonies,Income,"Interests, dividends"
+2019-09-20,3.73,lorem ipsum,lorem ipsum,John Doe,Bank of Loonies,Income,"Interests, dividends"
+2019-04-26,2.73,lorem ipsum,lorem ipsum,John Doe,Bank of Loonies,Income,"Interests, dividends"
+2019-06-15,30.13,lorem ipsum,lorem ipsum,John Doe,Bank of Loonies,Transfer,Transfer
+2019-02-22,32.82,lorem ipsum,lorem ipsum,John Doe,Bank of Loonies,Transfer,Transfer
+2019-08-27,16.76,lorem ipsum,lorem ipsum,John Doe,Bank of Loonies,Transfer,Transfer
+2019-02-26,29.59,lorem ipsum,lorem ipsum,John Doe,Bank of Loonies,Transfer,Transfer

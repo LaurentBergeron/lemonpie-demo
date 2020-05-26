@@ -1,0 +1,89 @@
+{
+    "Housing": [
+		"Rent", 
+		"Energy, water, utilities", 
+		"Internet", 
+		"Maintenance", 
+		"Insurance",
+		"Others"
+	],
+	"Personal": [
+		"Phone", 
+		"Health", 
+		"Memberships",
+		"Charity",
+		"Others"
+	],
+	"Food and dining": [
+		"Groceries", 
+		"Restaurant", 
+		"Alcool",
+		"Others"
+	],
+	"Education": [
+		"Tuition", 
+		"Loans", 
+		"Supplies",
+		"Others"
+	],
+	"Vehicle": [
+		"Fuel", 
+		"Parking", 
+		"Insurance", 
+		"Maintenance",
+		"Others"
+	],
+	"Travel": [
+		"Lodging", 
+		"Flights", 
+		"Public transport, taxis",
+		"Others"
+	],
+	"Shopping": [
+		"Clothing", 
+		"TV, books, music", 
+		"Electronics, accessories", 
+		"Sporting goods", 
+		"House, furniture", 
+		"Garden, tools", 
+		"Pets", 
+		"Software, apps, games", 
+		"Art supplies", 
+		"Postal services",
+		"Gifts",
+		"Others"
+	],
+	"Entertainment": [
+		"Active sports", 
+		"Outings",
+		"Others"
+	],
+	"Financial": [
+		"Bank fees", 
+		"Advisory", 
+		"Fines", 
+		"Insurance", 
+		"Loans", 
+		"Taxes",
+		"Others"
+	],
+	"Income": [
+		"Wages", 
+		"Deposits and checks", 
+		"Government", 
+		"Grants", 
+		"Gifts", 
+		"Interests, dividends", 
+		"Lending, renting", 
+		"Refunds", 
+		"Sales",
+		"Others"
+	],
+	"Transfer": [
+		"Transfer"
+	],
+	"Unclassified": [
+		"Unknown",
+		"Others"
+	]	
+}
