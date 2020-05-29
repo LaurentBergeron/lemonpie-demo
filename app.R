@@ -18,7 +18,7 @@ ui <- dashboardPage(skin="green",
   # Filters sidebar
   dashboardSidebar(tags$head(tags$style(type = "text/css", ".shiny-input-container {padding-top: 0px !important;}")),
     HTML("<h5><b>&nbsp;&nbsp;Date Range</b></h5>"),
-    dateRangeInput("filterDateRange", NULL, start="2019-01-01", end="2019-12-31"),
+    dateRangeInput("filterDateRange", NULL, start="2019-01-01", end=NULL),
     HTML("<h5><b>&nbsp;&nbsp;Amount Range ($)</b></h5>"),
     sliderInput("filterAmount", NULL, -MAX_AMOUNT, +MAX_AMOUNT, c(-MAX_AMOUNT,+MAX_AMOUNT)),
     HTML("<h5><b>&nbsp;&nbsp;Account</b></h5>"),

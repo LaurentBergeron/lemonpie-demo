@@ -1,0 +1,12 @@
+name: lemonpie_demo
+title: lemonpie_demo
+username:
+account: lemonpie
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2374620
+bundleId: 3203085
+url: https://lemonpie.shinyapps.io/lemonpie_demo/
+when: 1590719486.81374
+asMultiple: FALSE
+asStatic: FALSE

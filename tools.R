@@ -12,16 +12,14 @@ TITLE = "Lemonpie (demo)"
 
 
 read_csv <- function(filepath) {
-  df <- read.csv(filepath, header=FALSE, stringsAsFactors=FALSE, skip=1)
-  df['Date'] <- as.Date(df$V4, tryFormats=c("%Y/%m/%d", "%Y-%m-%d"))
-  df$V9[is.na(df$V9)] <- 0 # convert NA to zeros in income/expense columns
-  df$V8[is.na(df$V8)] <- 0 # convert NA to zeros in income/expense columns
-  df['Amount'] <- df$V9 - df$V8
-  df['Note'] <- df$V6
-  df['Payee'] <- '-'
+  df <- read.csv(filepath, header=FALSE, stringsAsFactors=FALSE)
+  df['Date'] <- as.Date(df$V1, tryFormats=c("%m/%d/%Y", "%m-%d-%Y"))
+  df['Amount'] <- df$V2
+  df['Note'] <- df$V3
+  df['Payee'] <- df$V4
   
   # Delete unused columns
-  df <- df[,-c(1:14)]
+  df <- df[,-c(1:4)]
   
   df
 }
@@ -33,8 +31,7 @@ import_csv_statement <- function(input, output) {
   print(filepath)
 
   # Read csv file
-  funct <- read_csv_functions[input$importCSVFormat]
-  df <- funct[[1]](filepath)
+  df <- read_csv(filepath)
   
   # Go through a series of test to verify validity of table to import
   success_bool <- tryCatch({  
